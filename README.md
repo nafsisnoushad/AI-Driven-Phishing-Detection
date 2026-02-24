@@ -26,7 +26,7 @@ AI-Driven-Phishing-Detection/
 │
 ├── data/
 │   ├── README.md
-│   └── sample_emails.csv
+│   └── phishing_dataset.csv
 │
 ├── src/
 │   ├── preprocess.py
